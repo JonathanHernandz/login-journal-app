@@ -1,8 +1,21 @@
-# React + Vite
+# Autentificación de la app Journal App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Aplicando Redux
 
-Currently, two official plugins are available:
+* Firebase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* FireStore
+
+* Redux Devtools
+
+* Thunk
+
+* Formularios
+
+* Google SingIn
+
+* Acciones Asíncronas
+
+* Mantener el estado de la autenticación
+
+* Animaciones con [animated.css](https://animate.style/)
